@@ -43,7 +43,7 @@ puts some_puppies(0, 5)
 def both_animal(number_of_puppies, number_of_cats)
     if number_of_puppies == 0 || number_of_cats == 0
   return "Good job!"
- elsif number_of_cats > 0 && number_of_puppys > 0
+ elsif number_of_cats > 0 && number_of_puppies > 0
     return "Get back to your animal goals!"
   end
 end

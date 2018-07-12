@@ -48,5 +48,5 @@ def both_animal(number_of_puppies, number_of_cats)
   end
 end
 
-puts both_animal(0,5)
+puts both_animal(5,5)
   
